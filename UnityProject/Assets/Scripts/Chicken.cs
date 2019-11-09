@@ -6,4 +6,12 @@ public class Chicken : MonoBehaviour
     public float JHeight = 100;
     [Header("Dead or alive"), Tooltip("alive or not")]
     public bool life = true;
+    private void Jump()
+    {
+
+    }
+    private void Death()
+    {
+
+    }
 }
